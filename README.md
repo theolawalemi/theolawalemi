@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Highly skilled frontend engineer with over 4 years of experience and a strong background in Computer Science. Skilled in creating visually appealing and user-friendly interfaces, adept at transforming ideas into meticulously crafted designs with seamless functionality, resulting in a 50% increase in user engagement and satisfaction. Proficient in cutting-edge frontend technologies and frameworks, leveraging them to deliver seamless user experiences, which has led to a 25% improvement in website performance.
+Highly skilled Frontend Engineer with over 4 years of experience and a strong background in Computer Science. Proficient in creating visually appealing and intuitive user interfaces, adept at transforming ideas into meticulously crafted designs with seamless functionality, resulting in a 45% increase in user engagement and satisfaction. I excel at leveraging cutting-edge frontend technologies and frameworks to deliver seamless user experiences, contributing to a 55% improvement in website performance.
