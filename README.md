@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Highly skilled Frontend Engineer with over 4 years of experience and a strong background in Computer Science. Proficient in creating visually appealing and intuitive user interfaces, adept at transforming ideas into meticulously crafted designs with seamless functionality, resulting in a 45% increase in user engagement and satisfaction. I excel at leveraging cutting-edge frontend technologies and frameworks to deliver seamless user experiences, contributing to a 55% improvement in website performance.
+I am a UI/UX Designer, Frontend Engineer, and WordPress Developer with over 6 years of experience, blending creativity with technical expertise to deliver enterprise-level digital solutions. With a strong foundation in Computer Science, I specialize in crafting intuitive, impactful user experiences with seamless functionality and building scalable, high-performance websites and applications that empower businesses to elevate their brands.
